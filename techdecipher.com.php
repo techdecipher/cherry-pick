@@ -6,4 +6,4 @@ designed footer
 
 added logo in website
 
-fixed a bug in all pages
+added blog page
