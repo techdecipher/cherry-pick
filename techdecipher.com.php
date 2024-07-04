@@ -9,3 +9,6 @@ added logo in website
 added blog page
 
 new page for xyz
+
+updated css for website pages
+
