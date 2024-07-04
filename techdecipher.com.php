@@ -12,3 +12,4 @@ new page for xyz
 
 updated css for website pages
 
+optmized the website images
