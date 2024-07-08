@@ -9,3 +9,5 @@ added logo in website
 added blog page
 
 new page for xyz
+
+fixing 2 bugs from third-branch
